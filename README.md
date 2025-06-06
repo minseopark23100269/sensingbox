@@ -39,7 +39,7 @@ sensingbox-main/
   
 ## demo 영상
 프로젝트 실행 영상:  
-[데모 영상 보기](https://www.youtube.com/watch?v=UVCQVKvOmpo)
+[![Thumbnail](https://img.youtube.com/vi/UVCQVKvOmpo/hqdefault.jpg)](https://www.youtube.com/watch?v=UVCQVKvOmpo)
 
 ## Dependencies
 
