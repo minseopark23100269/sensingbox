@@ -38,6 +38,8 @@ sensingbox-main/
   최종 처리된 영상은 상대 경로의 `output/recorded_video.avi` 파일에 저장됩니다.
   
 ## demo 영상
+프로젝트 실행 영상:  
+[데모 영상 보기](https://github.com/minseopark23100269/sensingbox/issues/1#issue-3124464379)
 
 ## Dependencies
 
