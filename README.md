@@ -36,6 +36,8 @@ sensingbox-main/
 
 - **영상 저장:**  
   최종 처리된 영상은 상대 경로의 `output/recorded_video.avi` 파일에 저장됩니다.
+  
+## demo 영상
 
 ## Dependencies
 
