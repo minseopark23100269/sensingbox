@@ -9,7 +9,7 @@
 
 ```
 sensingbox-main/
-├── 1234548.py         # 메인 파이썬 스크립트
+├── sensingbox.py         # 메인 파이썬 스크립트
 ├── images/            # 오버레이 이미지 폴더
 │   ├── crown.png      # 왕관 오버레이 이미지
 │   ├── glasses.png    # 안경 오버레이 이미지
