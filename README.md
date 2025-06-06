@@ -39,7 +39,7 @@ sensingbox-main/
   
 ## demo 영상
 프로젝트 실행 영상:  
-[데모 영상 보기](https://github.com/minseopark23100269/sensingbox/issues/1#issue-3124464379)
+[데모 영상 보기](https://www.youtube.com/watch?v=UVCQVKvOmpo)
 
 ## Dependencies
 
