@@ -40,7 +40,7 @@ sensingbox-main/ ├── 1234548.py # 메인 파이썬 스크립트 ├── 
 1. **저장소 클론 및 폴더 구조 확인:**
 
    ```bash
-   git clone https://github.com/your-username/sensingbox-main.git
+   git clone https://github.com/minseopark23100269/sensingbox.git
    cd sensingbox-main
 필요 패키지 설치:
 
