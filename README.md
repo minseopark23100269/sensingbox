@@ -56,6 +56,7 @@ sensingbox-main/
 
    ```bash
    git clone https://github.com/minseopark23100269/sensingbox.git
+   
    cd sensingbox-main
    
 2. **필요 패키지 설치:**
