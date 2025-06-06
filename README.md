@@ -51,12 +51,13 @@ sensingbox-main/
    ```bash
    git clone https://github.com/minseopark23100269/sensingbox.git
    cd sensingbox-main
-필요 패키지 설치:
+   
+2. **필요 패키지 설치:**
 
 bash
 pip install opencv-python mediapipe numpy
 
-이미지 파일 준비:
+3. **이미지 파일 준비:**
 
 images/ 폴더 안에 아래 이미지 파일들이 있습니다:
 
@@ -68,7 +69,7 @@ smile.png
 
 zzz.png
 
-스크립트 실행:
+3. **스크립트 실행:**
 
 bash
 python sensingbox.py
