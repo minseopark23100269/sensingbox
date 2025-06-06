@@ -7,7 +7,16 @@
 
 프로젝트 폴더의 구조는 다음과 같습니다:
 
-sensingbox-main/ ├── 1234548.py # 메인 파이썬 스크립트 ├── images/ # 오버레이 이미지 폴더 │ ├── crown.png # 왕관 오버레이 이미지 │ ├── glasses.png # 안경 오버레이 이미지 │ ├── smile.png # 웃음 효과 오버레이 이미지 │ └── zzz.png # 눈 감은 효과 오버레이 이미지 └── output/ # 실행 시 생성됨 - 처리된 영상이 저장됩니다.
+```
+sensingbox-main/
+├── 1234548.py         # 메인 파이썬 스크립트
+├── images/            # 오버레이 이미지 폴더
+│   ├── crown.png      # 왕관 오버레이 이미지
+│   ├── glasses.png    # 안경 오버레이 이미지
+│   ├── smile.png      # 웃음 효과 오버레이 이미지
+│   └── zzz.png        # 눈 감은 효과 오버레이 이미지
+└── output/            # 실행 시 생성됨 - 처리된 영상이 저장됩니다.
+```
 
 
 ## 주요 기능
@@ -46,9 +55,10 @@ sensingbox-main/ ├── 1234548.py # 메인 파이썬 스크립트 ├── 
 
 bash
 pip install opencv-python mediapipe numpy
+
 이미지 파일 준비:
 
-images/ 폴더 안에 아래 파일들이 있어야 합니다:
+images/ 폴더 안에 아래 이미지 파일들이 있습니다:
 
 crown.png
 
