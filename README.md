@@ -54,8 +54,8 @@ sensingbox-main/
    
 2. **필요 패키지 설치:**
 
-```bash
-pip install opencv-python mediapipe numpy
+   ```bash
+   pip install opencv-python mediapipe numpy
 
 3. **이미지 파일 준비:**
 
@@ -71,8 +71,8 @@ pip install opencv-python mediapipe numpy
 
 3. **스크립트 실행:**
 
-```bash
-python sensingbox.py
+   ```bash
+   python sensingbox.py
 
 웹캠이 켜지면서 “Effects & Hand Zoom” 창이 열리고, 실시간 영상에 효과가 적용됩니다.
 손 제스처로 확대/축소, 그리고 각 트리거 원(빨강, 흰, 노랑, 초록)을 통해 효과를 활성화시킬 수 있습니다.
